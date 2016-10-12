@@ -2,15 +2,19 @@ h1 {
   background-image:url(http://cdn8.openculture.com/wp-content/uploads/2014/08/08154654/noir-film-pic.jpg);
   height: 450px;
   text-align: center;
-  font-size: 50px;
+  font-size: 70px;
   text-transform: uppercase;
   color: white;
+  line-height: 450px;
+  letter-spacing: 5px;
+  text-shadow: 2px 2px 2px #000;
 }
 
 h2 {
   text-align: center;
   text-transform: uppercase;
   word-spacing: 20px;
+  font-size: 20px;
 }
 
 a:hover {
@@ -31,4 +35,8 @@ a {
 }
 .name {
   font-size: 25px
+}
+
+img {
+  width: 500px;
 }
