@@ -29,6 +29,11 @@ a {
   margin-left: 10%;
   line-height: 5px;
 }
+
+.name {
+  color: darkred;
+}
+
 .entries {
   margin-left: 10%;
   margin-right: 10%;
@@ -47,6 +52,7 @@ img {
   margin-right:10%;
   text-indent: 10px;
 }
+
 .firstcharacter {
   font-size: 75px;
   line-height: 60px;
